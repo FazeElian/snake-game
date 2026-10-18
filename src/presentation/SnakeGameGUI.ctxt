@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sun Oct 18 14:26:24 COT 2026
+comment0.target=SnakeGameGUI
+comment0.text=\r\n Write a description of class SnakeGameGUI here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.target=SnakeGameGUI()
+comment2.target=void prepareElements()
+comment3.target=void prepareWelcome()
+comment4.params=text bgColor textColor size
+comment4.target=javax.swing.JButton createButton(java.lang.String, java.awt.Color, java.awt.Color, int)
+comment5.params=parent
+comment5.target=int[] askConfig(java.awt.Component)
+comment6.target=void showGameScreen()
+comment7.target=void startGame()
+comment8.params=args
+comment8.target=void main(java.lang.String[])
+numComments=9

@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Oct 18 14:28:10 COT 2026
+comment0.target=SnakeGame
+comment0.text=\r\n Write a description of class SnakeGame here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=width height fruits
+comment1.target=SnakeGame(int, int, int)
+comment1.text=\r\n Constructor for objects of class SnakeGame\r\n
+numComments=2
